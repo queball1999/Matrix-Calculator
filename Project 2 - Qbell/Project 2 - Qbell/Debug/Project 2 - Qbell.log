@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Users\QUE-PC-23\Nextcloud2\School\School Archive\ENG175\Project 2 - Qbell\Project 2 - Qbell\main.c(35,15): warning C4101: 'k': unreferenced local variable
+C:\Users\QUE-PC-23\Nextcloud2\School\School Archive\ENG175\Project 2 - Qbell\Project 2 - Qbell\main.c(630,14): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\QUE-PC-23\Nextcloud2\School\School Archive\ENG175\Project 2 - Qbell\Project 2 - Qbell\main.c(591): warning C4716: 'CalculatingN_MatrixA': must return a value
+C:\Users\QUE-PC-23\Nextcloud2\School\School Archive\ENG175\Project 2 - Qbell\Project 2 - Qbell\main.c(605): warning C4716: 'CalculatingN_MatrixB': must return a value
+  Project 2 - Qbell.vcxproj -> C:\Users\QUE-PC-23\Nextcloud2\School\School Archive\ENG175\Project 2 - Qbell\Debug\Project 2 - Qbell.exe
