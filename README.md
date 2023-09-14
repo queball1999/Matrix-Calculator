@@ -1,2 +1,2 @@
 # Matrix-Calculator
-Matrix calculator build for ENG175 class
+Matrix calculator built for ENG175 class
